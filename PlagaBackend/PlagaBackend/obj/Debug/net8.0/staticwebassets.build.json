@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "EA7ZK9g7ZTyB9A+UGzEfONf972icgU7YBmYuFtRyAZs=",
+  "Source": "PlagaBackend",
+  "BasePath": "_content/PlagaBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
