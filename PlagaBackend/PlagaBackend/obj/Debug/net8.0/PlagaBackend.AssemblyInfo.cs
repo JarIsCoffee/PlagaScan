@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PlagaBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11c2d3dbc4a699d837d681298d310b81cd6b1e1b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df3bfc7dbed8c24d5ba4ce043df0bdff00a08e7f")]
 [assembly: System.Reflection.AssemblyProductAttribute("PlagaBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PlagaBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

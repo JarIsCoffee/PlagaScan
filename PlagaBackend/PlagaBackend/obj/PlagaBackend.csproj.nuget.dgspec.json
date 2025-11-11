@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jairo\\Documents\\Flutter\\App_plagas\\PlagaBackend\\PlagaBackend\\PlagaBackend\\PlagaBackend.csproj": {}
+    "C:\\Users\\Jairo\\Documents\\Flutter\\App_plagas\\PlagaBackend\\PlagaBackend\\PlagaBackend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jairo\\Documents\\Flutter\\App_plagas\\PlagaBackend\\PlagaBackend\\PlagaBackend\\PlagaBackend.csproj": {
+    "C:\\Users\\Jairo\\Documents\\Flutter\\App_plagas\\PlagaBackend\\PlagaBackend\\PlagaBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jairo\\Documents\\Flutter\\App_plagas\\PlagaBackend\\PlagaBackend\\PlagaBackend\\PlagaBackend.csproj",
+        "projectUniqueName": "C:\\Users\\Jairo\\Documents\\Flutter\\App_plagas\\PlagaBackend\\PlagaBackend\\PlagaBackend.csproj",
         "projectName": "PlagaBackend",
-        "projectPath": "C:\\Users\\Jairo\\Documents\\Flutter\\App_plagas\\PlagaBackend\\PlagaBackend\\PlagaBackend\\PlagaBackend.csproj",
+        "projectPath": "C:\\Users\\Jairo\\Documents\\Flutter\\App_plagas\\PlagaBackend\\PlagaBackend\\PlagaBackend.csproj",
         "packagesPath": "C:\\Users\\Jairo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jairo\\Documents\\Flutter\\App_plagas\\PlagaBackend\\PlagaBackend\\PlagaBackend\\obj\\",
+        "outputPath": "C:\\Users\\Jairo\\Documents\\Flutter\\App_plagas\\PlagaBackend\\PlagaBackend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,6 +50,24 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"

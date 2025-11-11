@@ -1,12 +1,282 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Jairo\\Documents\\Flutter\\App_plagas\\PlagaBackend\\PlagaBackend\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Jairo\\Documents\\Flutter\\App_plagas\\PlagaBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E15ACB28-8F31-4D4E-B75B-B38CD445E71B}|PlagaBackend\\PlagaBackend.csproj|c:\\users\\jairo\\documents\\flutter\\app_plagas\\plagabackend\\plagabackend\\controllers\\authservicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15ACB28-8F31-4D4E-B75B-B38CD445E71B}|PlagaBackend\\PlagaBackend.csproj|solutionrelative:plagabackend\\controllers\\authservicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15ACB28-8F31-4D4E-B75B-B38CD445E71B}|PlagaBackend\\PlagaBackend.csproj|c:\\users\\jairo\\documents\\flutter\\app_plagas\\plagabackend\\plagabackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15ACB28-8F31-4D4E-B75B-B38CD445E71B}|PlagaBackend\\PlagaBackend.csproj|solutionrelative:plagabackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15ACB28-8F31-4D4E-B75B-B38CD445E71B}|PlagaBackend\\PlagaBackend.csproj|c:\\users\\jairo\\documents\\flutter\\app_plagas\\plagabackend\\plagabackend\\models\\updateprofilemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15ACB28-8F31-4D4E-B75B-B38CD445E71B}|PlagaBackend\\PlagaBackend.csproj|solutionrelative:plagabackend\\models\\updateprofilemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15ACB28-8F31-4D4E-B75B-B38CD445E71B}|PlagaBackend\\PlagaBackend.csproj|c:\\users\\jairo\\documents\\flutter\\app_plagas\\plagabackend\\plagabackend\\models\\plagamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15ACB28-8F31-4D4E-B75B-B38CD445E71B}|PlagaBackend\\PlagaBackend.csproj|solutionrelative:plagabackend\\models\\plagamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15ACB28-8F31-4D4E-B75B-B38CD445E71B}|PlagaBackend\\PlagaBackend.csproj|c:\\users\\jairo\\documents\\flutter\\app_plagas\\plagabackend\\plagabackend\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15ACB28-8F31-4D4E-B75B-B38CD445E71B}|PlagaBackend\\PlagaBackend.csproj|solutionrelative:plagabackend\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15ACB28-8F31-4D4E-B75B-B38CD445E71B}|PlagaBackend\\PlagaBackend.csproj|c:\\users\\jairo\\documents\\flutter\\app_plagas\\plagabackend\\plagabackend\\models\\appvirtualcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15ACB28-8F31-4D4E-B75B-B38CD445E71B}|PlagaBackend\\PlagaBackend.csproj|solutionrelative:plagabackend\\models\\appvirtualcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15ACB28-8F31-4D4E-B75B-B38CD445E71B}|PlagaBackend\\PlagaBackend.csproj|c:\\users\\jairo\\documents\\flutter\\app_plagas\\plagabackend\\plagabackend\\models\\cultivosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15ACB28-8F31-4D4E-B75B-B38CD445E71B}|PlagaBackend\\PlagaBackend.csproj|solutionrelative:plagabackend\\models\\cultivosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15ACB28-8F31-4D4E-B75B-B38CD445E71B}|PlagaBackend\\PlagaBackend.csproj|c:\\users\\jairo\\documents\\flutter\\app_plagas\\plagabackend\\plagabackend\\controllers\\cultivoscontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15ACB28-8F31-4D4E-B75B-B38CD445E71B}|PlagaBackend\\PlagaBackend.csproj|solutionrelative:plagabackend\\controllers\\cultivoscontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15ACB28-8F31-4D4E-B75B-B38CD445E71B}|PlagaBackend\\PlagaBackend.csproj|c:\\users\\jairo\\documents\\flutter\\app_plagas\\plagabackend\\plagabackend\\controllers\\plagascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15ACB28-8F31-4D4E-B75B-B38CD445E71B}|PlagaBackend\\PlagaBackend.csproj|solutionrelative:plagabackend\\controllers\\plagascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15ACB28-8F31-4D4E-B75B-B38CD445E71B}|PlagaBackend\\PlagaBackend.csproj|c:\\users\\jairo\\documents\\flutter\\app_plagas\\plagabackend\\plagabackend\\models\\usuarioregistermodelcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15ACB28-8F31-4D4E-B75B-B38CD445E71B}|PlagaBackend\\PlagaBackend.csproj|solutionrelative:plagabackend\\models\\usuarioregistermodelcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15ACB28-8F31-4D4E-B75B-B38CD445E71B}|PlagaBackend\\PlagaBackend.csproj|c:\\users\\jairo\\documents\\flutter\\app_plagas\\plagabackend\\plagabackend\\models\\usuariologinmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15ACB28-8F31-4D4E-B75B-B38CD445E71B}|PlagaBackend\\PlagaBackend.csproj|solutionrelative:plagabackend\\models\\usuariologinmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15ACB28-8F31-4D4E-B75B-B38CD445E71B}|PlagaBackend\\PlagaBackend.csproj|c:\\users\\jairo\\documents\\flutter\\app_plagas\\plagabackend\\plagabackend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E15ACB28-8F31-4D4E-B75B-B38CD445E71B}|PlagaBackend\\PlagaBackend.csproj|solutionrelative:plagabackend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15ACB28-8F31-4D4E-B75B-B38CD445E71B}|PlagaBackend\\PlagaBackend.csproj|c:\\users\\jairo\\documents\\flutter\\app_plagas\\plagabackend\\plagabackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E15ACB28-8F31-4D4E-B75B-B38CD445E71B}|PlagaBackend\\PlagaBackend.csproj|solutionrelative:plagabackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15ACB28-8F31-4D4E-B75B-B38CD445E71B}|PlagaBackend\\PlagaBackend.csproj|c:\\users\\jairo\\documents\\flutter\\app_plagas\\plagabackend\\plagabackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15ACB28-8F31-4D4E-B75B-B38CD445E71B}|PlagaBackend\\PlagaBackend.csproj|solutionrelative:plagabackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15ACB28-8F31-4D4E-B75B-B38CD445E71B}|PlagaBackend\\PlagaBackend.csproj|c:\\users\\jairo\\documents\\flutter\\app_plagas\\plagabackend\\plagabackend\\plagabackend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{E15ACB28-8F31-4D4E-B75B-B38CD445E71B}|PlagaBackend\\PlagaBackend.csproj|solutionrelative:plagabackend\\plagabackend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15ACB28-8F31-4D4E-B75B-B38CD445E71B}|PlagaBackend\\PlagaBackend.csproj|c:\\users\\jairo\\documents\\flutter\\app_plagas\\plagabackend\\plagabackend\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15ACB28-8F31-4D4E-B75B-B38CD445E71B}|PlagaBackend\\PlagaBackend.csproj|solutionrelative:plagabackend\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateProfileModel.cs",
+              "DocumentMoniker": "C:\\Users\\Jairo\\Documents\\Flutter\\App_plagas\\PlagaBackend\\PlagaBackend\\Models\\UpdateProfileModel.cs",
+              "RelativeDocumentMoniker": "PlagaBackend\\Models\\UpdateProfileModel.cs",
+              "ToolTip": "C:\\Users\\Jairo\\Documents\\Flutter\\App_plagas\\PlagaBackend\\PlagaBackend\\Models\\UpdateProfileModel.cs",
+              "RelativeToolTip": "PlagaBackend\\Models\\UpdateProfileModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T17:29:22.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "plagaModel.cs",
+              "DocumentMoniker": "C:\\Users\\Jairo\\Documents\\Flutter\\App_plagas\\PlagaBackend\\PlagaBackend\\Models\\plagaModel.cs",
+              "RelativeDocumentMoniker": "PlagaBackend\\Models\\plagaModel.cs",
+              "ToolTip": "C:\\Users\\Jairo\\Documents\\Flutter\\App_plagas\\PlagaBackend\\PlagaBackend\\Models\\plagaModel.cs",
+              "RelativeToolTip": "PlagaBackend\\Models\\plagaModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T05:46:11.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Jairo\\Documents\\Flutter\\App_plagas\\PlagaBackend\\PlagaBackend\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "PlagaBackend\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Jairo\\Documents\\Flutter\\App_plagas\\PlagaBackend\\PlagaBackend\\Models\\Usuario.cs",
+              "RelativeToolTip": "PlagaBackend\\Models\\Usuario.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T12:21:18.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppvirtualContext.cs",
+              "DocumentMoniker": "C:\\Users\\Jairo\\Documents\\Flutter\\App_plagas\\PlagaBackend\\PlagaBackend\\Models\\AppvirtualContext.cs",
+              "RelativeDocumentMoniker": "PlagaBackend\\Models\\AppvirtualContext.cs",
+              "ToolTip": "C:\\Users\\Jairo\\Documents\\Flutter\\App_plagas\\PlagaBackend\\PlagaBackend\\Models\\AppvirtualContext.cs",
+              "RelativeToolTip": "PlagaBackend\\Models\\AppvirtualContext.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAgwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T12:20:08.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsuarioRegisterModelcs.cs",
+              "DocumentMoniker": "C:\\Users\\Jairo\\Documents\\Flutter\\App_plagas\\PlagaBackend\\PlagaBackend\\Models\\UsuarioRegisterModelcs.cs",
+              "RelativeDocumentMoniker": "PlagaBackend\\Models\\UsuarioRegisterModelcs.cs",
+              "ToolTip": "C:\\Users\\Jairo\\Documents\\Flutter\\App_plagas\\PlagaBackend\\PlagaBackend\\Models\\UsuarioRegisterModelcs.cs",
+              "RelativeToolTip": "PlagaBackend\\Models\\UsuarioRegisterModelcs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T12:25:31.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthServicer.cs",
+              "DocumentMoniker": "C:\\Users\\Jairo\\Documents\\Flutter\\App_plagas\\PlagaBackend\\PlagaBackend\\Controllers\\AuthServicer.cs",
+              "RelativeDocumentMoniker": "PlagaBackend\\Controllers\\AuthServicer.cs",
+              "ToolTip": "C:\\Users\\Jairo\\Documents\\Flutter\\App_plagas\\PlagaBackend\\PlagaBackend\\Controllers\\AuthServicer.cs*",
+              "RelativeToolTip": "PlagaBackend\\Controllers\\AuthServicer.cs*",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAiwDkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T12:23:36.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Jairo\\Documents\\Flutter\\App_plagas\\PlagaBackend\\PlagaBackend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "PlagaBackend\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Jairo\\Documents\\Flutter\\App_plagas\\PlagaBackend\\PlagaBackend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "PlagaBackend\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T12:24:33.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CultivosModel.cs",
+              "DocumentMoniker": "C:\\Users\\Jairo\\Documents\\Flutter\\App_plagas\\PlagaBackend\\PlagaBackend\\Models\\CultivosModel.cs",
+              "RelativeDocumentMoniker": "PlagaBackend\\Models\\CultivosModel.cs",
+              "ToolTip": "C:\\Users\\Jairo\\Documents\\Flutter\\App_plagas\\PlagaBackend\\PlagaBackend\\Models\\CultivosModel.cs",
+              "RelativeToolTip": "PlagaBackend\\Models\\CultivosModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T01:35:44.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CultivosController .cs",
+              "DocumentMoniker": "C:\\Users\\Jairo\\Documents\\Flutter\\App_plagas\\PlagaBackend\\PlagaBackend\\Controllers\\CultivosController .cs",
+              "RelativeDocumentMoniker": "PlagaBackend\\Controllers\\CultivosController .cs",
+              "ToolTip": "C:\\Users\\Jairo\\Documents\\Flutter\\App_plagas\\PlagaBackend\\PlagaBackend\\Controllers\\CultivosController .cs",
+              "RelativeToolTip": "PlagaBackend\\Controllers\\CultivosController .cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T01:41:53.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlagasController.cs",
+              "DocumentMoniker": "C:\\Users\\Jairo\\Documents\\Flutter\\App_plagas\\PlagaBackend\\PlagaBackend\\Controllers\\PlagasController.cs",
+              "RelativeDocumentMoniker": "PlagaBackend\\Controllers\\PlagasController.cs",
+              "ToolTip": "C:\\Users\\Jairo\\Documents\\Flutter\\App_plagas\\PlagaBackend\\PlagaBackend\\Controllers\\PlagasController.cs",
+              "RelativeToolTip": "PlagaBackend\\Controllers\\PlagasController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwBcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T00:33:44.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jairo\\Documents\\Flutter\\App_plagas\\PlagaBackend\\PlagaBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "PlagaBackend\\appsettings.json",
+              "ToolTip": "C:\\Users\\Jairo\\Documents\\Flutter\\App_plagas\\PlagaBackend\\PlagaBackend\\appsettings.json",
+              "RelativeToolTip": "PlagaBackend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-30T11:48:02.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Jairo\\Documents\\Flutter\\App_plagas\\PlagaBackend\\PlagaBackend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PlagaBackend\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Jairo\\Documents\\Flutter\\App_plagas\\PlagaBackend\\PlagaBackend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PlagaBackend\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-06T01:48:46.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsuarioLoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\Jairo\\Documents\\Flutter\\App_plagas\\PlagaBackend\\PlagaBackend\\Models\\UsuarioLoginModel.cs",
+              "RelativeDocumentMoniker": "PlagaBackend\\Models\\UsuarioLoginModel.cs",
+              "ToolTip": "C:\\Users\\Jairo\\Documents\\Flutter\\App_plagas\\PlagaBackend\\PlagaBackend\\Models\\UsuarioLoginModel.cs",
+              "RelativeToolTip": "PlagaBackend\\Models\\UsuarioLoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T12:26:03.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jairo\\Documents\\Flutter\\App_plagas\\PlagaBackend\\PlagaBackend\\Program.cs",
+              "RelativeDocumentMoniker": "PlagaBackend\\Program.cs",
+              "ToolTip": "C:\\Users\\Jairo\\Documents\\Flutter\\App_plagas\\PlagaBackend\\PlagaBackend\\Program.cs",
+              "RelativeToolTip": "PlagaBackend\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwAkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T11:47:59.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Jairo\\Documents\\Flutter\\App_plagas\\PlagaBackend\\PlagaBackend\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "PlagaBackend\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Jairo\\Documents\\Flutter\\App_plagas\\PlagaBackend\\PlagaBackend\\WeatherForecast.cs",
+              "RelativeToolTip": "PlagaBackend\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T12:19:32.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PlagaBackend.http",
+              "DocumentMoniker": "C:\\Users\\Jairo\\Documents\\Flutter\\App_plagas\\PlagaBackend\\PlagaBackend\\PlagaBackend.http",
+              "RelativeDocumentMoniker": "PlagaBackend\\PlagaBackend.http",
+              "ToolTip": "C:\\Users\\Jairo\\Documents\\Flutter\\App_plagas\\PlagaBackend\\PlagaBackend\\PlagaBackend.http",
+              "RelativeToolTip": "PlagaBackend\\PlagaBackend.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-10-06T03:02:53.432Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
